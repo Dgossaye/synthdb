@@ -1,0 +1,34 @@
+{
+  "db_name": "PostgreSQL",
+  "query": "\n            SELECT\n                kcu.column_name,\n                ccu.table_name AS foreign_table_name,\n                ccu.column_name AS foreign_column_name\n            FROM information_schema.key_column_usage AS kcu\n            JOIN information_schema.constraint_column_usage AS ccu\n            ON kcu.constraint_name = ccu.constraint_name\n            JOIN information_schema.table_constraints AS tc\n            ON kcu.constraint_name = tc.constraint_name\n            WHERE kcu.table_name = $1 AND tc.constraint_type = 'FOREIGN KEY'\n            ",
+  "describe": {
+    "columns": [
+      {
+        "ordinal": 0,
+        "name": "column_name",
+        "type_info": "Name"
+      },
+      {
+        "ordinal": 1,
+        "name": "foreign_table_name",
+        "type_info": "Name"
+      },
+      {
+        "ordinal": 2,
+        "name": "foreign_column_name",
+        "type_info": "Name"
+      }
+    ],
+    "parameters": {
+      "Left": [
+        "Name"
+      ]
+    },
+    "nullable": [
+      true,
+      true,
+      true
+    ]
+  },
+  "hash": "e82a06a096a828b7f7b9d9431998d87c7ea2c5f046f273071c40d897a6ce4095"
+}
