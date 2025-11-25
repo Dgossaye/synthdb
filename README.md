@@ -394,6 +394,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 
 - **Issues:** [GitHub Issues](https://github.com/synthdb/synthdb/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/synthdb/synthdb/discussions)
+- **Support:** [Buymeacoffee](https://buymeacoffee.com/synthdb)
 
 ---
 
